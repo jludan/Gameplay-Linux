@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/sample-spaceship.dir/src/SpaceshipGame.cpp.o  -o sample-spaceship -rdynamic -L/home/jludan/GamePlay/external-deps/lib/linux/x86_64 -lstdc++ ../../gameplay/libgameplay.a -lgameplay-deps -lm -lGL -lrt -ldl -lX11 -lpthread -lgtk-x11-2.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/jludan/GamePlay/external-deps/lib/linux/x86_64 
