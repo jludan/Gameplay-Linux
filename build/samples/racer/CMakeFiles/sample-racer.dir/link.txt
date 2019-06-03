@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/sample-racer.dir/src/RacerGame.cpp.o  -o sample-racer -rdynamic -L/home/jludan/GamePlay/external-deps/lib/linux/x86_64 -lstdc++ ../../gameplay/libgameplay.a -lgameplay-deps -lm -lGL -lrt -ldl -lX11 -lpthread -lgtk-x11-2.0 -lglib-2.0 -lgobject-2.0 -Wl,-rpath,/home/jludan/GamePlay/external-deps/lib/linux/x86_64 
